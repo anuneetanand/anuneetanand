@@ -12,7 +12,7 @@
 [![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-[![React Native](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react%20native&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=MongoDB&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=mysql&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
