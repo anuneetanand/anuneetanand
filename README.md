@@ -7,34 +7,22 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuneetanand&theme=algolia&hide=Jupyter%20Notebook" />
 </a>
 
----
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
+## Technical Stack
 
-
-## Technology Stack
-
+[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
+[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![json](https://img.shields.io/badge/-JSON-grey?style=flat-square&logo=json&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
+[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=firebase&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true">
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-
-[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 
-[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
-[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
+## Social Media
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/anuneet-anand/)](https://www.linkedin.com/in/anuneet-anand/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:anuneetanand@gmail.com)](mailto:anuneetanand@gmail.com)
