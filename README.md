@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuneetanand&theme=algolia&hide=Jupyter%20Notebook" />
 </a>
 
+---
+
 ![](https://img.shields.io/badge/Code-Python-brightgreen)
 ![](https://img.shields.io/badge/Code-Java-brightgreen)
 ![](https://img.shields.io/badge/Code-C-brightgreen)
