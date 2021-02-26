@@ -1,3 +1,3 @@
 ### Anuneet Anand
 
-[![Anuneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuneetanand)](https://github.com/anuraghazra/github-readme-stats&theme=react)
+![Anuneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=react)
