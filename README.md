@@ -6,7 +6,7 @@
 <!-- [![Facebook](https://img.shields.io/badge/-Facebook-3b5999?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/anuneet-anand/)](https://www.facebook.com/anuneet-anand/) -->
 
 <a href="https://github.com/anuneetanand/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=dark&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
 </a>
 
 <br></br>
