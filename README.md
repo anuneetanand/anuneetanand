@@ -9,8 +9,8 @@
 </a>
 
 <br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuneetanand&theme=onestar&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-<br></br>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anuneetanand&theme=onestar&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Python3](https://img.shields.io/badge/-Python3-brightgreen?style=flat&logo=python&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
 [![Django](https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=django&link=https://github.com/anuneetanand/)](https://github.com/anuneetanand/)
