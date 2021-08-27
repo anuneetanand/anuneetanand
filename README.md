@@ -3,6 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:anuneetanand@gmail.com)](mailto:anuneetanand@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/anuneet-anand/)](https://www.linkedin.com/in/anuneet-anand/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=social&logo=instagram&link=https://www.instagram.com/anuneet_anand/)](https://www.instagram.com/anuneet_anand)
+<img src="https://komarev.com/ghpvc/?username=anuneetanand" alt="anuneetanand" /> 
 
 <a href="https://github.com/anuneetanand/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
