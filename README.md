@@ -1,4 +1,4 @@
-### Hey 👋,  I'm Anuneet Anand!  
+## Hey 👋,  I'm Anuneet Anand!  
 
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/anuneet_anand/)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anuneet-anand/)
@@ -7,10 +7,6 @@
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/anuneetanand)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/anuneetanand/)
 ![Kaggle](https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anuneetanand)
-
-<table><tr>  
-<td valign="top" width="50%">
-<div align = "justify">
   
 - ⭐ Ecstatic about working on innovative projects that aim to solve real-world problems through technology.
 
@@ -21,16 +17,8 @@
 - 🔭  Actively exploring areas of Blockchain Technology and User Privacy. 
 
 - 🤝  Open to connecting with fellow developers & researchers and learning something new.
-</div>
-</td><td valign="top" width="50%">
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuneetanand&theme=dark" alt="anuneetanand" />
-</div>
-</td>
-</tr></table>  
 
-### Tech Stack
+## Tech Stack
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -58,3 +46,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+## Stats
+
+<!-- <div align="center"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuneetanand&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuneetanand&theme=dark" alt="anuneetanand" /> -->
+<!-- </div> -->
