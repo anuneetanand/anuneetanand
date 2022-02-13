@@ -1,12 +1,12 @@
 ## Hey 👋,  I'm Anuneet Anand!  
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anuneet_anand/)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anuneet-anand/)
-![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11572807/anuneet-anand)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/anuneetanand)
-![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/anuneetanand)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/anuneetanand/)
-![Kaggle](https://img.shields.io/badge/Kaggle-%2344BAE8.svg?&style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anuneetanand)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/anuneet_anand/)](https://www.instagram.com/anuneet_anand/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anuneet-anand/)](https://www.linkedin.com/in/anuneet-anand/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11572807/anuneet-anand)](https://stackoverflow.com/users/11572807/anuneet-anand)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/anuneetanand)](https://codeforces.com/profile/anuneetanand)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/anuneetanand)](https://www.hackerrank.com/anuneetanand)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/anuneetanand/)](https://leetcode.com/anuneetanand/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2344BAE8.svg?&style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anuneetanand)](https://www.kaggle.com/anuneetanand)
   
 - ⭐ Ecstatic about working on innovative projects that aim to solve real-world problems through technology.
 
