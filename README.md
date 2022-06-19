@@ -10,13 +10,13 @@
   
 - ⭐ Ecstatic about working on innovative projects that aim to solve real-world problems through technology.
 
-- 👨‍🎓 Pursuing my Undergraduate Degree @ IIITD and contributing to various development and research projects. 
+- 👨‍🎓 Completed my Undergraduate Degree @ IIITD and contributed to various development and research projects. 
 
 - 👨‍💻 Experience developing Cross-Platform Mobile Apps, building Question Answering systems over Knowledge Graphs and designing scalable Ethereum DApps. 
 
-- 🔭  Actively exploring areas of Blockchain Technology and User Privacy. 
+- 🔭 Actively exploring areas of Blockchain Technology and User Privacy. 
 
-- 🤝  Open to connecting with fellow developers & researchers and learning something new.
+- 🤝 Open to connecting with fellow developers & researchers and learning something new.
 
 ## Tech Stack
 
@@ -35,6 +35,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%230db7ed.svg?style=flat-square&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
