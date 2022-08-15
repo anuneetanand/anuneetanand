@@ -12,9 +12,7 @@
 
 - 👨‍🎓 Completed my Undergraduate Degree @ IIITD and contributed to various development and research projects. 
 
-- 👨‍💻 Experience developing Cross-Platform Mobile Apps, building Question Answering systems over Knowledge Graphs and designing scalable Ethereum DApps. 
-
-- 🔭 Actively exploring areas of Blockchain Technology and User Privacy. 
+- 👨‍💻 Experience developing Cross-Platform Mobile Apps, building Question Answering systems over Knowledge Graphs and designing scalable Ethereum DApps.  
 
 - 🤝 Open to connecting with fellow developers & researchers and learning something new.
 
